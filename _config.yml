@@ -12,7 +12,7 @@ title                    : "Dhruv Rathee"
 title_separator          : "-"
 name                     : &name "Dhruv Rathee"
 description              : &description "personal description"
-url                      : https://dhruvrathee6.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "12-crypto.github.io/dhruvrathee6.github.io/"
 
