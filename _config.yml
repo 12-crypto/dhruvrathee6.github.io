@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dhruv Rathee"
-  pronouns         : # example: "she/her"  
-  bio              : ""
+  pronouns         : "he/him"  
+  bio              : "Graduate Student"
   location         : "India"
   employer         : ""
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=P6GgDCcAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   researchgate     : "https://www.researchgate.net/profile/Dhruv-Rathee-2/research"
 
   # Repositories and software development
@@ -46,16 +46,16 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "dhruvrathee_06"
+  instagram        : "dhruv_rathee06"
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/dhruv-rathee-67580b1b0/"
+  linkedin         : "dhruv-rathee-67580b1b0/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
